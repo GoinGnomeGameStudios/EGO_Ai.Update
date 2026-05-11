@@ -2,6 +2,6 @@
   "tag": "v0.9.3.0",
   "version": "0.9.3.0",
   "notes": "## EGO v0.9.3.0\n\n### What's New\n- License system complete — all 3 layers passing\n- Auto-updater system live\n- Plugin GUID fix — all 74 commands reach plugin\n- Settings UI API key save/load wired\n- Config auto-detection (ego-config-{handle}.json)\n- Galaxy Map calibration aliases\n- G_NOFOLDER — splash screen fully embedded\n\n### Bug Fixes\n- Layer 3 timing race fixed (G_L3EXEC)\n- Base64 padding unified (G_BASE64)\n- Dev key no longer bleeds into tester .vap",
-  "download": "https://raw.githubusercontent.com/GoinGnomeGameStudios/EGO_Ai.Update/main/docs/releases/EGO_v0.9.3.0_update.zip",
+  "download": "https://goingnomegamestudios.github.io/EGO_Ai.Update/docs/releases/EGO_v0.9.3.0_update.zip",
   "published": "2026-05-06T00:00:00Z"
 }
