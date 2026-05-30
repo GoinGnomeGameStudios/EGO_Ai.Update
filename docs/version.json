@@ -1,7 +1,7 @@
 {
-  "tag": "v0.9.4.5",
-  "version": "0.9.4.5",
-  "notes": "EGO v0.9.4.5 update. Say 'Hey EGO, check for updates' after installing.",
-  "download": "https://raw.githubusercontent.com/GoinGnomeGameStudios/EGO_Ai.Update/main/docs/releases/EGO_v0.9.4.5_update.zip",
-  "published": "2026-05-29T21:56:59Z"
+  "tag": "v0.9.4.6",
+  "version": "0.9.4.6",
+  "notes": "## Test Updater",
+  "download": "https://raw.githubusercontent.com/GoinGnomeGameStudios/EGO_Ai.Update/main/docs/releases/EGO_v0.9.4.6_update.zip",
+  "published": "2026-05-30T10:55:17Z"
 }
