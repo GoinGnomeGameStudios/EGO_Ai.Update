@@ -1,7 +1,7 @@
 {
   "tag": "v0.9.5.1",
   "version": "0.9.5.1",
-  "notes": "EGO v0.9.5.1 - Say 'Hey EGO check for updates' after installing.",
+  "notes": "## \u2728 What's New\n- EGO can land your ship \u2014 asks ATC permission, drops gear, autolands \u2014 fully autonomous\n- 5 agent voices \u2014 EGO, NOVA (combat), ATLAS (trade), ORION (nav), RAVEN (intel)\n- Real-time overlay \u2014 listens, thinks, acts, idles \u2014 state syncs live\n- Weapon cards, trade prices, and nav plotting confirmed live in-game\n\n## \ud83d\udc1b Fixes\n- Fixed: Overlay no longer freezes after the first command\n- Fixed: License won't expire incorrectly anymore\n- Fixed: Voice prompts now respond reliably every single time\n\n## \u26a1 Perf\n- Smoother updates, faster voice response, tighter overall flow\n\n## \ud83c\udfa8 UI\n- Settings voice dropdown \u2014 pick from 30 voices and assign each of the 5 agents their own voice",
   "download": "https://raw.githubusercontent.com/GoinGnomeGameStudios/EGO_Ai.Update/main/docs/releases/EGO_v0.9.5.1_update.zip",
-  "published": "2026-05-31T17:23:09Z"
+  "published": "2026-05-31T20:00:00Z"
 }
