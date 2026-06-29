@@ -1,0 +1,180 @@
+## ========================================
+## Build & Compilation Output
+## ========================================
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+AnyCPU/
+*.dll
+*.exe
+*.pdb
+*.so
+*.dylib
+*.rsp
+
+## ========================================
+## Visual Studio / JetBrains IDEs
+## ========================================
+.vs/
+.vscode/
+.idea/
+*.suo
+*.user
+*.userprefs
+*.userosscache
+*.sln.docstates
+*.sln.DotSettings.user
+.idea/.idea.*/**
+!.idea/.idea.*/.gitkeep
+
+## ========================================
+## Editor & Temporary Files
+## ========================================
+*.log
+*.tmp
+*.temp
+*.cache
+*.bak
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+desktop.ini
+.classpath
+.project
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+## ========================================
+## Test Results & Coverage
+## ========================================
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+OpenCover/
+
+## ========================================
+## NuGet Package Management
+## ========================================
+packages/
+.nuget/
+*.nupkg
+*.snupkg
+project.lock.json
+project.assets.json
+
+## ========================================
+## Publish & Deployment
+## ========================================
+publish/
+artifacts/
+AppPackages/
+app.bundle
+*.PublishSettings
+PublishProfiles/
+env.prod
+
+## ========================================
+## Generated Code & WPF
+## ========================================
+*.g.cs
+*.g.i.cs
+*.designer.cs
+*.generated.cs
+
+## ========================================
+## Environment & Configuration Secrets
+## ========================================
+.env
+.env.*
+!.env.example
+!.env.template
+appsettings.Development.json
+appsettings.Local.json
+appsettings.*.json
+!appsettings.json
+secrets.json
+*.pfx
+*.cer
+*.pem
+*.key
+config.local.json
+*.override.json
+*.local.json
+connection.local.config
+
+## ========================================
+## Game Development & Runtime
+## ========================================
+*/node_modules/
+*/dist/
+*.unitypackage
+Library/
+Temp/
+Build/
+Builds/
+ExportedObj/
+.csproj.user
+launchSettings.json
+
+## ========================================
+## Windows Specific
+## ========================================
+Thumbs.db
+ehthumbs.db
+*.lnk
+$RECYCLE.BIN/
+.windows/
+
+## ========================================
+## macOS Specific
+## ========================================
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+## ========================================
+## Linux Specific
+## ========================================
+*.swp
+*.swo
+*~
+.directory
+
+## ========================================
+## IDE Workspace & Local Settings
+## ========================================
+.ionide/
+.vscode/extensions.json
+.vscode/settings.json
+.vscode/launch.json
+workspace.xml
+misc.xml
+*.iml
+
+## ========================================
+## Misc Build & Debug Artifacts
+## ========================================
+*.CodeAnalysisLog.xml
+*.CodeAnalysisState.SerializationFormat
+*.CodeAnalysisState
+paket-files/
+*.fsproj.user
+StaticAnalysisResults.xml
+InteropComInteropRegistrationOutput.txt
+
+## ========================================
+## PowerShell & Script Artifacts
+## ========================================
+*.ps1.bak
+install-report.json
+upgrade-report.json
